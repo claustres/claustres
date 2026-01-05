@@ -15,3 +15,7 @@
 | B, C       | You are currently making good progress. Let's aim a bit higher.                            |
 | UNKNOWN    | You have not taken action yet. Let's act first.                                            |
 | SECRET     | This rank is very rare. The trophy will not be displayed until certain conditions are met. |
+
+[My Algora profile](https://algora.io/og/user/claustres)
+
+<img src="https://algora.io/og/user/claustres" />
